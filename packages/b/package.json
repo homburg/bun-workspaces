@@ -5,6 +5,7 @@
   "type": "module",
   "dependencies": {
     "@oven-sh/a": "workspace:*",
+    "@oven-sh/c": "workspace:*",
     "bun-types": "latest",
     "zod": "3"
   }
